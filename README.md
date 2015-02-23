@@ -1,0 +1,2 @@
+# hm-host
+host HM 
